@@ -15,7 +15,7 @@ As a hypothetical applicant for this role, I was tasked with:
 
 - Reviewing the `ad-hoc-requests.pdf`, which contained 10 ad hoc business requests requiring insights.
 - Writing and executing SQL queries to answer these requests.
-- Creating a presentation to showcase these insights, targeting top-level management.
+  
 
 ## My Approach
 
@@ -25,8 +25,8 @@ As a hypothetical applicant for this role, I was tasked with:
 2. **Data Visualization**:
    - Leveraged Power BI to visualize the output, making the insights clear and compelling.
    
-3. **Presentation Design**:
-   - Designed an engaging and professional presentation in Microsoft PowerPoint to effectively communicate the insights.
+3. **Word Documentation**:
+   - Designed an word document in Microsoft word to effectively communicate the insights.
    
 4. **Actionable Insights**:
    - Provided actionable insights and recommendations to assist the management team in making informed decisions.
