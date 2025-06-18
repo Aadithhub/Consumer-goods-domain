@@ -98,7 +98,6 @@ Select *, Gross_sales_mln *100/sum(Gross_sales_mln) over() as percentage from ct
 -- fields, 
 -- division 
 -- product_code 
--- codebasics.io 
 -- product 
 -- total_sold_quantity 
 -- rank_order
